@@ -1,0 +1,25 @@
+.elementor-kit-6{--e-global-color-primary:#FDBB02;--e-global-color-secondary:#AB9054;--e-global-color-text:#6F6F6F;--e-global-color-accent:#FDBB02;--e-global-color-d900869:#F3EFEC;--e-global-color-ffa9a07:#AB9054;--e-global-typography-primary-font-family:"aeonik";--e-global-typography-primary-font-weight:500;--e-global-typography-secondary-font-family:"aeonik";--e-global-typography-secondary-font-weight:500;--e-global-typography-text-font-family:"aeonik";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"aeonik";--e-global-typography-accent-font-weight:700;font-size:15px;}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}.elementor-kit-6 a{color:var( --e-global-color-secondary );}.elementor-kit-6 h1{font-weight:800;}.elementor-kit-6 h2{font-weight:800;}.elementor-kit-6 h3{font-weight:600;}.elementor-kit-6 h4{font-weight:700;}.elementor-kit-6 button,.elementor-kit-6 input[type="button"],.elementor-kit-6 input[type="submit"],.elementor-kit-6 .elementor-button{border-radius:100px 100px 100px 100px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:24px;}.elementor-element{--widgets-spacing:24px 24px;--widgets-spacing-row:24px;--widgets-spacing-column:24px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'aeonik';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('fonts/inter.woff2') format('woff2');
+	size-adjust: 94%;
+}
+@font-face {
+	font-family: 'aeonik';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('fonts/inter.woff2') format('woff2');
+	size-adjust: 94%;
+}
+@font-face {
+	font-family: 'aeonik';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('fonts/inter.woff2') format('woff2');
+	size-adjust: 94%;
+}
+/* End Custom Fonts CSS */
